@@ -20,6 +20,9 @@
   <IncludeSymbols>true</IncludeSymbols>-->
   <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   <Version>1.0.1</Version>
+  <RepositoryUrl>https://github.com/rossbuggins/PowerBI-CSharp.git</RepositoryUrl>
+  <RepositoryType>git</RepositoryType>
+  <PackageProjectUrl>https://github.com/rossbuggins/PowerBI-CSharp</PackageProjectUrl>
   
 </PropertyGroup>
 
