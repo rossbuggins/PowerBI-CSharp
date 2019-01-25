@@ -1,4 +1,6 @@
-# Power BI for .NET
+# Power BI for .NET CORE
+
+##Updated to be a .NET Standard 2.0 Project
 
 Welcome to the .NET developer community for Power BI Embedded.  Here you will find resources for the .NET SDKs for Power BI Embedded.
 
