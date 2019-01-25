@@ -19,7 +19,7 @@
   --><!-- Optional: Build symbol package (.snupkg) to distribute the PDB containing Source Link --><!--
   <IncludeSymbols>true</IncludeSymbols>-->
   <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-  <Version>1.1.0</Version>
+  <Version>1.2.0</Version>
   <RepositoryUrl>https://github.com/rossbuggins/PowerBI-CSharp.git</RepositoryUrl>
   <RepositoryType>git</RepositoryType>
   <PackageProjectUrl>https://github.com/rossbuggins/PowerBI-CSharp</PackageProjectUrl>
