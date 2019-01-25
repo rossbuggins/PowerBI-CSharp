@@ -3,7 +3,7 @@
 ## Updated to be a .NET Standard 2.0 Project
 Forked Jan 2018 and changed to .NET standard. Published on Nuget at:
 
-Install-Package rossbuggins.PowerBI.Api -Version 1.0.0	
+Install-Package rossbuggins.PowerBI.Api -Version 1.2.0	
 
 ## Welcome
 
