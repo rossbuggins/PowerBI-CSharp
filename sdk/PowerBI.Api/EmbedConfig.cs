@@ -3,7 +3,7 @@ using Microsoft.PowerBI.Api.V2.Models;
 using Newtonsoft.Json.Linq;
 using Microsoft.Rest;
 
-namespace VIA.DataWarehouseCore.Web
+namespace Microsoft.PowerBI.Api.V2
 {
     public class EmbedConfig
         {
