@@ -5,6 +5,7 @@ Forked Jan 2018 and changed to .NET standard. Published on Nuget at:
 
 Install-Package rossbuggins.PowerBI.Api -Version 1.0.0	
 
+## Welcome
 
 Welcome to the .NET developer community for Power BI Embedded.  Here you will find resources for the .NET SDKs for Power BI Embedded.
 
